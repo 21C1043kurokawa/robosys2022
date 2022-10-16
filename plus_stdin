@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightText: 2022 Daiki Kurokawa
 # SPDX-License-Identifier: BSD-3-Clause
+#aaaaa
 import sys
 
 ans = 0
