@@ -2,13 +2,16 @@
 # SPDX-FileCopyrightText: 2022 Daiki Kurokawa
 # SPDX-License-Identifier: BSD-3-Clause
 #aaaaa
-import sys
+import sys 
+
+def tonum(s):
+    try:
+        return int(s)
+    except:
+        return float(s)
 
 ans = 0
 for line in sys.stdin:
-    try:
-       ans += int(line)
-    except:   
-          ans += float(line)
+      ans += tonum(line)
 
-    print(ans)
+print(ans)
