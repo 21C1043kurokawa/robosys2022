@@ -1,8 +1,19 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightText: 2022 Daiki Kurokawa
 # SPDX-License-Identifier: BSD-3-Clause
+<<<<<<< HEAD
 #iiiiiii
 import sys
+=======
+#aaaaa
+import sys 
+
+def tonum(s):
+    try:
+        return int(s)
+    except:
+        return float(s)
+>>>>>>> refs/remotes/origin/main
 
 
 def tonum(s):
@@ -14,6 +25,7 @@ def tonum(s):
 
 ans = 0
 for line in sys.stdin:
+<<<<<<< HEAD
     line = line.rstrip()
     ans += tonum(line)
 
@@ -21,3 +33,8 @@ for line in sys.stdin:
 print(ans)
 
               
+=======
+      ans += tonum(line)
+
+print(ans)
+>>>>>>> refs/remotes/origin/main
