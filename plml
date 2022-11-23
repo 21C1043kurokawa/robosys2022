@@ -1,0 +1,24 @@
+#!/usr/bin/python3
+  
+import sys
+  
+plus = 0
+mlt = 1
+cnt =0
+for line in sys.stdin:
+    try:
+        plus += int(line)
+        mlt *= int(line)
+        cnt += 1
+    except:
+          plus += float(line)
+          mlt *= float(line)
+          cnt += 1.0
+
+print("合計")
+print(plus)
+print("積")
+print(mlt)
+print("平均")
+print(float(plus) / cnt)
+
