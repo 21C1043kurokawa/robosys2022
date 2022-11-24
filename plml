@@ -16,10 +16,6 @@ for line in sys.stdin:
           mlt *= float(line)
           cnt += 1.0
 
-print("合計")
-print(plus)
-print("積")
-print(mlt)
-print("平均")
-print(float(plus) / cnt)
+
+print(plus,mlt,float(plus) /cnt)
 
