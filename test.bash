@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-#!/bin/bash
- 
-  out=$(seq 5 | ./plus)
-  　
-  [ "${out}" = 15 ]
-=======
 #!/bin/bash -xv
 # SPDX-FileCopyrightText: 2022 Daiki Kurokawa
 # SPDX-License-Identifier: BSD-3-Clause
@@ -35,4 +28,3 @@
 
 [ "$res = 0 ] && echo OK
   exit $res
->>>>>>> dev
