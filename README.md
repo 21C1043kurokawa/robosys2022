@@ -1,8 +1,8 @@
-# plusコマンド
-標準入力から読み込んだ数字をたす
-#plmlコマンド
-標準入力から読み込んだ数字を足す 掛ける 平均を出す
 ![test](https://github.com/21C1043kurokawa/robosys2022/actions/workflows/test.yml/badge.svg)
+# plusコマンド
+  標準入力から読み込んだ数字をたす
+#plmlコマンド
+   標準入力から読み込んだ数字を足す 掛ける 平均を出す
 # robosys2022
 *このリポジトリはロボットシステム学の講義に関するものです．
 *Python shellscript(bash) ros2を学んでいます
