@@ -4,17 +4,8 @@ import sys
 ans = 0
 for line in sys.stdin:
     try:
-<<<<<<< HEAD
-        ans += int(line)
-    except:
-        ans += float(line)
-     
-print(ans)
-
-=======
        ans += int(line)
     except:   
           ans += float(line)
 
 print(ans)
->>>>>>> dev
