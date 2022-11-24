@@ -1,4 +1,7 @@
 # robosys2022
+このリポジトリはロボットシステム学の講義に関するものです．
+Python shellscript(bash) ros2を学んでいます
+plml はplus_stdinを改変した物です．（第一目の課題）
 robosys plus
 *このソフトウェアパッケージは、３条項BSDライセンスのもと、再配布および使用が許可されています。
 # plusコマンド
