@@ -11,7 +11,7 @@ res=0
 
 #1/0test#
 out=$(seq 5 | ./plml)
-["${out}" = ] || ng $[LINENO] #seq 5 | ./plml の正解は 15 120 3.0 #
+["${out}" =["15" , "120" , "3.0"] ] || ng $[LINENO]         #seq 5 | ./plml の正解は 15 120 3.0 #
 
 [ "$res" = 0 ] && echo OK
 exit $res

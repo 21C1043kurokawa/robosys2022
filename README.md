@@ -1,4 +1,6 @@
 # robosys2022
+# plusコマンド
+![test](https://github.com/21C1043kurokawa/robosys2022/actions/workflows/test.yml/badge.svg)
 *このリポジトリはロボットシステム学の講義に関するものです．
 *Python shellscript(bash) ros2を学んでいます
 *plml はplus_stdinを改変した物です．（第一目の課題）
