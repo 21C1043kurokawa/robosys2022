@@ -1,6 +1,8 @@
 #!/bin/bash -xv
 # SPDX-FileCopyrightText: 2022 Daiki Kurokawa
 # SPDX-License-Identifier: BSD-3-Clause
+
+#plmlのテストプログラム#
  
 ng () {
       echo NG at Line $1
