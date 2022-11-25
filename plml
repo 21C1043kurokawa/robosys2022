@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightText: 2022 Daiki Kurokawa
 # SPDX-License-Identifier: BSD-3-Clause  
+
+#数字を読み込んでそれらの和、積 平均を出します#
+
 import sys
   
 plus = 0  # plusは和 mltは積 cntはループの回数#
@@ -10,7 +13,7 @@ for line in sys.stdin:
     try:#整数ちなら？#
         plus += int(line)   
         mlt *= int(line)
-        cnt += 1
+        cnt += 1  
     except:#少数があるときは？＃
           plus += float(line)
           mlt *= float(line)
