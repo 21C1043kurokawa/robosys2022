@@ -2,6 +2,7 @@
 # SPDX-FileCopyrightText: 2022 Daiki Kurokawa
 # SPDX-License-Identifier: BSD-3-Clause  
 
+#plus_stdinの改造したプログラム#
 #数字を読み込んでそれらの和、積 平均を出します#
 
 import sys
