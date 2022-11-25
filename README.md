@@ -1,5 +1,5 @@
-#robosys2022
-ロボットシステム学に関するリポジトリ
+# robosys2022
+ロボットシステム学の練習リポジトリ
 # plusコマンド
 ![test](https://github.com/21C1043kurokawa/robosys2022/actions/workflows/test.yml/badge.svg)  
 標準入力から読み込んだ数字をたす
