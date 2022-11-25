@@ -5,7 +5,7 @@
 ![test](https://github.com/21C1043kurokawa/robosys2022/actions/workflows/test.yml/badge.svg)
 標準入力から読み込んだ数字を足す  
 
-plus:``https://github.com/21C1043kurokawa/robosys2022/blob/main/plus```
+plus: https://github.com/21C1043kurokawa/robosys2022/blob/main/plus
 
 テストプログラム:https://github.com/21C1043kurokawa/robosys2022/blob/main/test.bash
 
