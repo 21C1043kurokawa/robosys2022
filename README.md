@@ -4,6 +4,7 @@
 ![test](https://github.com/21C1043kurokawa/robosys2022/actions/workflows/test.yml/badge.svg)  
 標準入力から読み込んだ数字をたす
 
+
 # plmlコマンド
 標準入力から読み込んだ数字を足す 掛ける 平均を出す
 
@@ -13,5 +14,6 @@
   * テスト済み: 3.7〜3.10
 
 ## テスト環境
-* Ubuntu
-＊　2022　Daiki　kurokawa
+* Ubuntu 
+ * ダウンロード： https://jp.ubuntu.com/download  
+   * 2022　Daiki　kurokawa
