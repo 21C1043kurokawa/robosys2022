@@ -10,9 +10,9 @@
 * テストプログラム:https://github.com/21C1043kurokawa/robosys2022/blob/main/test.bash
 
 
-* 使い方．
+* 使い方:
 $seq 5 | ./plus
-とコマンドを打つと（5の部分は好きな数字を入れてください．小数にも対応)1～５までの和が出てくる．
+とコマンドを打つと（5の部分は好きな数字を入れてください．小数にも対応)1～５までの和が出力される．
 ```
 $ seq 5 | ./plus
 15
@@ -31,8 +31,8 @@ $ seq 5 | ./plml
 ## 必要なソフトウェア
 * OS
   * Linux(Ubuntuが良い)
-* Ubuntu
-* ダウンロード： https://jp.ubuntu.com/download
+    * Ubuntu
+    * ダウンロード： https://jp.ubuntu.com/download
 * Python
   * テスト済み: 3.7〜3.10
 
