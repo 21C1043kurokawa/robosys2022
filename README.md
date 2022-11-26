@@ -10,13 +10,11 @@
 * テストプログラム:https://github.com/21C1043kurokawa/robosys2022/blob/main/test.bash
 
 
-* 使い方
-plusのリンク先のcopy now contents からスクリプトをコピーし、ファイルに保存（名前はここではplus.pyとする)．パーミッションを確認し（ls -l コマンド）-x（実行する権利）がなければ
-chmod +x コマンドで実行権を付与．ファイル名をmvコマンドで変える（ここではplusとする)．
+* 使い方．
 $seq 5 | ./plus
 とコマンドを打つと（5の部分は好きな数字を入れてください．小数にも対応)1～５までの和が出てくる．
 ```
-~/Git/robosys2022$ seq 5 | ./plus
+$ seq 5 | ./plus
 15
 ```
 # plmlコマンド
@@ -26,17 +24,15 @@ $seq 5 | ./plus
 * 使い方:
  plus の時と同様．$seq 5 | ./plml で出力されるのは１～５までの和 積 平均です.
 ```
-~/Git/robosys2022$ seq 5 | ./plml
+$ seq 5 | ./plml
 15 120 3.0
 ```
 
 ## 必要なソフトウェア
 * OS
-  * Linux
+  * Linux(Ubuntuが良い)
+* Ubuntu
+* ダウンロード： https://jp.ubuntu.com/download
 * Python
   * テスト済み: 3.7〜3.10
 
-## テスト環境
-* Ubuntu 
- * ダウンロード： https://jp.ubuntu.com/download  
-   * 2022　Daiki　kurokawa
