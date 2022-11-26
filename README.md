@@ -3,7 +3,7 @@
 * ロボットシステム学の練習リポジトリ
 * install
 ```
-$ git clone https://github.com/21C1043kurokawa/robosys2022
+$ git clone git@github.com:21C1043kurokawa/robosys2022.git
 $ cd robosys2022
 ```
 # plusコマンド
