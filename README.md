@@ -30,7 +30,7 @@ $ seq 5 | ./plml  #５の部分は他の正の整数、小数も可#
 ## 必要なソフトウェア
 * OS
   * Ubuntu (Ubuntu22.04)
-    * [ダウンロード] (https://jp.ubuntu.com/download)
+    * [ダウンロード](https://jp.ubuntu.com/download)
 * Python
   * テスト済み: 3.7〜3.10
 
