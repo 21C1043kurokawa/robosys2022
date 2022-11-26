@@ -1,9 +1,9 @@
+![test](https://github.com/21C1043kurokawa/robosys2022/actions/workflows/test.yml/badge.svg)
 # robosys2022
 * ロボットシステム学の練習リポジトリ
 * このソフトウェアパッケージは、３条項BSDライセンスのもと、再配布および使用が許可されています。
 * 2022 Daiki Kurokawa
 # plusコマンド
-![test](https://github.com/21C1043kurokawa/robosys2022/actions/workflows/test.yml/badge.svg)
 標準入力から読み込んだ数字を足す  
 
 * plus: https://github.com/21C1043kurokawa/robosys2022/blob/main/plus
