@@ -6,7 +6,7 @@
 
 * [plus](https://github.com/21C1043kurokawa/robosys2022/blob/main/plus)
 
-* [テストプログラム](https://github.com/21C1043kurokawa/robosys2022/blob/main/test.bash)
+
 
 
 * 使い方:
@@ -19,7 +19,6 @@ $ seq 5 | ./plus    #５の部分は他の正の整数、小数も可#
 # plmlコマンド
 標準入力から読み込んだ数字を足す 掛ける 平均を出す
 * [plml](https://github.com/21C1043kurokawa/robosys2022/blob/main/plml)
-* [テストプログラム](https://github.com/21C1043kurokawa/robosys2022/blob/main/test2.bash)
 * 使い方:
  seq 5 | ./plml とコマンドを打つ
 ```
