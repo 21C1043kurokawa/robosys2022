@@ -1,13 +1,15 @@
 ![test](https://github.com/21C1043kurokawa/robosys2022/actions/workflows/test.yml/badge.svg)
 # robosys2022
 * ロボットシステム学の練習リポジトリ
+* install
+```
+$ git clone https://github.com/21C1043kurokawa/robosys2022
+$ cd robosys2022
+```
 # plusコマンド
 標準入力から読み込んだ数字を足す  
 
 * [plus](https://github.com/21C1043kurokawa/robosys2022/blob/main/plus)
-
-
-
 
 * 使い方:
 seq 5 | ./plus
